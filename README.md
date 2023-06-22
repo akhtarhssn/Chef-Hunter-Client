@@ -28,5 +28,5 @@ https://chef-recipe-hunter-b7a10.web.app/
 - Category based item display
 ## Screenshots
 
-![App Screenshot](https://images2.imgbox.com/91/bd/M6SPIFRV_o.png)
+![App Screenshot](https://i.ibb.co/9skLLMw/chef-recipe.png)
 
